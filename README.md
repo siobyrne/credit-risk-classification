@@ -11,7 +11,7 @@ X-values included the loan size, interest rate, borrower's income, debt-to-incom
 
 For this analysis, the x and y values were seperated and data was split into train and tests groups with a random state of 1. A logistic regression model was used, and predictions were made based on that model. A balanced accuracy score, confusion matrix and classification report were created to check the accuracy of the model.
 
-The process was repeated on resampeled data to create a more balanced data set of 56,271 healthy loans and the same number of high-risk loans. 
+The process was repeated on resampled data to create a more balanced data set of 56,271 healthy loans and the same number of high-risk loans. 
 
 ## Results
 **Model One (Original Data)**
